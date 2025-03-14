@@ -65,14 +65,5 @@ Run the following command to install required packages:
 ```bash
 pip install -r requirements.txt
 
-python script.py
-
----
-
-### **Option 2: Separate README Files for Each Task**
-If each task is independent, add a `README.md` inside each folder explaining the specific project.
-
-Example:
-
 
 
