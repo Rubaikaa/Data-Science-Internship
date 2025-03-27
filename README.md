@@ -1,6 +1,6 @@
 # Data Science Internship Tasks
 
-Welcome to the **Data Science Internship** repository! This repository contains hands-on tasks designed to enhance your skills in exploratory data analysis, machine learning, and data processing.
+Welcome to the **Data Science Internship** repository! This repository contains hands-on tasks designed to enhance skills in exploratory data analysis, machine learning, and data processing.
 
 ## 📌 Tasks Overview
 
@@ -21,7 +21,7 @@ Perform exploratory data analysis (EDA) on a real-world dataset such as the **Ti
 - Summarize insights and observations.
 
 **Outcome:**
-- A Jupyter Notebook or Python script with EDA steps, visualizations, and detailed insights.
+- A Colab Notebook or Python script with EDA steps, visualizations, and detailed insights.
 
 ---
 
