@@ -9,11 +9,15 @@ Welcome to the **Data Science Internship** repository! 🚀 This repository cont
 Perform exploratory data analysis (EDA) on a real-world dataset such as the **Titanic Dataset**.
 
 **Steps:**
+
 ✅ Load the dataset using Pandas.
+
 ✅ Perform data cleaning:
+
    - Handle missing values through imputation or removal.
    - Remove duplicate entries.
    - Identify and manage outliers using statistical methods or visualizations.
+     
 ✅ Create visualizations:
    - 📊 Bar charts for categorical variables.
    - 📈 Histograms for numerical distributions.
