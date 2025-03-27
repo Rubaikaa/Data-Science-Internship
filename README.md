@@ -143,10 +143,15 @@ Ensure you have the following installed:
 We welcome contributions! 🎉
 
 **To contribute:**
+
 1️⃣ **Fork this repository**.
+
 2️⃣ **Create a new branch**: `git checkout -b feature-branch`
+
 3️⃣ **Commit your changes**: `git commit -m 'Add new feature'`
+
 4️⃣ **Push to the branch**: `git push origin feature-branch`
+
 5️⃣ **Submit a pull request**.
 
 🚀 **Let's build together!** 🚀
