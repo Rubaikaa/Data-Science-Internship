@@ -22,6 +22,7 @@ Perform exploratory data analysis (EDA) on a real-world dataset such as the **Ti
    - 📊 Bar charts for categorical variables.
    - 📈 Histograms for numerical distributions.
    - 🔥 Correlation heatmaps for numerical features.
+     
 ✅ Summarize insights and observations.
 
 **Outcome:**
@@ -34,14 +35,19 @@ Perform exploratory data analysis (EDA) on a real-world dataset such as the **Ti
 Build a **sentiment analysis model** using a dataset like **IMDB Reviews**.
 
 **Steps:**
+
 ✅ **Text Preprocessing:**
+
    - Tokenize text into individual words.
    - Remove stopwords.
    - Apply lemmatization for normalization.
+     
 ✅ **Feature Engineering:**
    - Convert text data into numerical format using **TF-IDF** or **word embeddings**.
+     
 ✅ **Model Training:**
    - Train a classifier such as **Logistic Regression** or **Naive Bayes**.
+     
 ✅ **Model Evaluation:**
    - Evaluate model performance using **precision, recall, and F1-score**.
 
@@ -51,16 +57,21 @@ Build a **sentiment analysis model** using a dataset like **IMDB Reviews**.
 ---
 
 ### 🔍 Task 3: Fraud Detection System
+
 **Description:**
 Develop a **fraud detection system** using a dataset like **Credit Card Fraud Dataset**.
 
 **Steps:**
+
 ✅ **Data Preprocessing:**
    - Handle imbalanced data using techniques like **SMOTE** or **undersampling**.
+     
 ✅ **Model Training:**
    - Train a **Random Forest** or **Gradient Boosting** model to detect fraudulent transactions.
+     
 ✅ **Model Evaluation:**
    - Assess system performance using **precision, recall, and F1-score**.
+     
 ✅ **Testing Interface:**
    - Create a simple **command-line input** to test the fraud detection system.
 
@@ -70,19 +81,25 @@ Develop a **fraud detection system** using a dataset like **Credit Card Fraud Da
 ---
 
 ### 🏡 Task 4: Predicting House Prices (California Housing Dataset)
+
 **Description:**
 Build a **regression model from scratch** to predict house prices using the **California Housing Dataset**.
 
 **Steps:**
+
 ✅ **Data Preprocessing:**
    - Normalize numerical features.
    - Preprocess categorical variables.
+     
 ✅ **Model Implementation:**
    - Implement **Linear Regression, Random Forest, and XGBoost** from scratch (**without using built-in libraries like `sklearn.linear_model`**).
+     
 ✅ **Performance Comparison:**
    - Evaluate models using **RMSE** and **R²** metrics.
+     
 ✅ **Feature Importance:**
    - Visualize feature importance for **tree-based models**.
+     
 
 **Outcome:**
 - A Python script containing **custom regression model implementations, performance comparisons, and visualizations**.
@@ -100,6 +117,7 @@ Build a **regression model from scratch** to predict house prices using the **Ca
 
 ## 🚀 Getting Started
 ### 🔧 Prerequisites
+
 Ensure you have the following installed:
 - 🐍 Python 3.x
 - 📓 Jupyter Notebook
@@ -107,6 +125,7 @@ Ensure you have the following installed:
 - 🤖 Scikit-learn, NLTK, XGBoost (for specific tasks)
 
 ### 📥 Installation
+
 1️⃣ Clone this repository:
    ```sh
    git clone https://github.com/your-username/data-science-internship.git
