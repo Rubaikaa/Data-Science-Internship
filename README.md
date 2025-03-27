@@ -19,7 +19,7 @@ This repository contains four data science projects designed to provide hands-on
   - Generate visualizations (bar charts, histograms, correlation heatmaps)
   - Summarize insights
 
-👉 **Files**: [`Task1_EDA/`](Task1_EDA/)
+👉 **Files**: [`Task1_EDA/`](Task 1: Exploratory Data Analysis (EDA))
 
 ---
 
