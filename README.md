@@ -31,7 +31,7 @@ This repository contains four data science projects designed to provide hands-on
   - Train a classifier (Logistic Regression / Naive Bayes)
   - Evaluate using precision, recall, and F1-score
 
-👉 **Files**: [`Task2_Sentiment_Analysis/`](Task2_Sentiment_Analysis/)
+👉 **Files**: [Task 2: Sentiment Analysis)
 
 ---
 
