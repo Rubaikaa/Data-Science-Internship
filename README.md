@@ -117,10 +117,12 @@ Ensure you have the following installed:
    ```
 
 ## 📬 Contributing
-Feel free to submit issues, fork the repository, and send pull requests. Let's build together!
-
-## 📝 License
-This project is open-source and available under the [MIT License](LICENSE).
+We welcome contributions! To contribute:
+1. Fork this repository.
+2. Create a new branch: `git checkout -b feature-branch`
+3. Commit your changes: `git commit -m 'Add new feature'`
+4. Push to the branch: `git push origin feature-branch`
+5. Submit a pull request.
 
 ---
 
