@@ -24,10 +24,6 @@ Perform exploratory data analysis (EDA) on a real-world dataset such as the **Ti
    - 🔥 Correlation heatmaps for numerical features.
      
 ✅ Summarize insights and observations.
-
-**Outcome:**
-- A **Jupyter Notebook** or **Python script** with EDA steps, visualizations, and detailed insights.
-
 ---
 
 ### 💬 Task 2: Text Sentiment Analysis
